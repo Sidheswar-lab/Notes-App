@@ -44,7 +44,7 @@
 #btn:hover{
     border: 3px solid chocolate;
 }
-#notes{
+.notes{
     position: relative;
     width: 100%;
     max-width: 600px;
@@ -58,7 +58,7 @@
     border-radius: 4px;
 }
 
-#notes img{
+.notes img{
     position: absolute;
     height: 30px;
     right: 10px;
