@@ -41,6 +41,9 @@
     height: 50px;
     padding: 3px;
 }
+#btn:hover{
+    border: 3px solid chocolate;
+}
 #notes{
     position: relative;
     width: 100%;
